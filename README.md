@@ -7,7 +7,7 @@ Data structures are a way of managing, organizing, and storing data efficiently.
 Data structures can be categorized into two types:
 
 ### 1. Linear Data Structures (Elements are arranged sequentially)
-- **Array**: A collection of elements of the same type stored in contiguous memory locations.
+- **[Array](linear-data-structures/array/README.md)**: A collection of elements of the same type stored in contiguous memory locations.
 - **[Linked List](linear-data-structures/linked-list/README.md)**: A series of connected nodes where each node stores data and a reference to the next node.
 - **Stack**: A Last In, First Out (LIFO) data structure used in function calls, undo operations, etc.
 - **Queue**: A First In, First Out (FIFO) data structure used in scheduling and buffering.
