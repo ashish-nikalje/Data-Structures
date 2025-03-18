@@ -22,14 +22,6 @@ A stack supports the following operations:
 Below is a Go implementation of a stack using a slice.
 
 ```go
-package stack
-
-import "fmt"
-
-type Stack struct {
-	stack []int
-}
-
 // Push inserts an element at the top of the stack
 func (s *Stack) Push() {
 	var data int
@@ -82,13 +74,6 @@ func (s *Stack) IsEmpty() bool {
 // Size prints the number of elements in the stack
 func (s *Stack) Size() {
 	fmt.Println("Size of stack: ", len(s.stack))
-}
-
-// NewStack initializes and returns an empty stack
-func NewStack() Stack {
-	return Stack{
-		stack: []int{},
-	}
 }
 ```
 
