@@ -18,3 +18,9 @@ Linked lists can be implemented in multiple ways based on how the nodes are conn
 ### Disadvantages of Linked Lists
 - **More Memory Usage**: Extra pointers require additional storage.
 - **Slower Access**: Requires traversal from the head node to access elements (no direct indexing).
+---
+
+### Codes
+
+- [Single Linked List](single-linked-list/main.go)
+- [Doubly Linked List](doubly-linked-list/main.go)
