@@ -9,7 +9,7 @@ Data structures can be categorized into two types:
 ### 1. Linear Data Structures (Elements are arranged sequentially)
 - **[Array](linear-data-structures/array/README.md)**: A collection of elements of the same type stored in contiguous memory locations.
 - **[Linked List](linear-data-structures/linked-list/README.md)**: A series of connected nodes where each node stores data and a reference to the next node.
-- **Stack**: A Last In, First Out (LIFO) data structure used in function calls, undo operations, etc.
+- **[Stack](linear-data-structures/stack/README.md)**: A Last In, First Out (LIFO) data structure used in function calls, undo operations, etc.
 - **[Queue](linear-data-structures/queue/README.md)**: A First In, First Out (FIFO) data structure used in scheduling and buffering.
 
 ### 2. Non-Linear Data Structures (Elements are arranged in a hierarchical manner)
