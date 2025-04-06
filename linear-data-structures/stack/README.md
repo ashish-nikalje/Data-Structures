@@ -22,14 +22,6 @@ A stack supports the following operations:
 Below is a Go implementation of a stack using a slice.
 
 ```go
-package stack
-
-import "fmt"
-
-type Stack struct {
-	stack []int
-}
-
 // Push inserts an element at the top of the stack
 func (s *Stack) Push() {
 	var data int

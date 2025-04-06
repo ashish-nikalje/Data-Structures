@@ -24,3 +24,5 @@ Linked lists can be implemented in multiple ways based on how the nodes are conn
 
 - [Single Linked List](single-linked-list/main.go)
 - [Doubly Linked List](doubly-linked-list/main.go)
+- [Circular Linked List](circular-linked-list/main.go)
+- [Doubly Circular Linked List](doubly-circular-linked-list/main.go)
