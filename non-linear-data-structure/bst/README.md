@@ -65,5 +65,5 @@ Assume you've inserted: `50, 30, 70, 20, 40, 60, 80`
 
 
 
-## Tips
+## Notes
 - You can only insert **unique**, **non-negative** integers.
