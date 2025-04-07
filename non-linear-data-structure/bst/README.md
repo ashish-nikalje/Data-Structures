@@ -1,10 +1,5 @@
 # Binary Search Tree (BST)
 
-## Overview
-This project contains a practical and interactive implementation of a **Binary Search Tree (BST)** in Go. It allows you to insert and search elements, view the tree structure, and explore various types of traversals to understand how BSTs work.
-
-Whether you're brushing up on data structures or building a tool from scratch, this module provides a solid foundation.
-
 ## Features
 - Insert elements into the tree
 - Search for a specific value
