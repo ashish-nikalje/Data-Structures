@@ -14,7 +14,7 @@ Data structures can be categorized into two types:
 
 ### 2. Non-Linear Data Structures (Elements are arranged in a hierarchical manner)
 - **Tree**: A hierarchical structure with a root node and child nodes.
-  - Binary Search Tree (BST)
+  - **[Binary Search Tree (BST)](non-linear-data-structure/bst/README.md)** 
   - AVL Tree
   - Red-Black Tree
   - B-Tree
